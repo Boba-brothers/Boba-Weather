@@ -5,7 +5,7 @@ layout: default
 ---
 ## Home Page
 
-[About Stewart](404.md)
+[About Stewart](404.html)
 <br />
 [Click here for Chicken](./Chicken/Chicken.html)
 <br />
