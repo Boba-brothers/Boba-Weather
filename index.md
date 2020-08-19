@@ -1,3 +1,8 @@
+---
+permalink: index.html
+title: Homepage
+layout: default
+---
 ## Home Page
 
 [About Stewart](404.md)
