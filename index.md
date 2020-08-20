@@ -1,6 +1,18 @@
-## Home Page
+---
+permalink: index.html
+title: Homepage
+layout: default
+---
 
-[About Stewart](404.md)
+## Home Page
+<p>
+	<a href="index.html">
+	<img src="bobaweatherlogov2.png"
+     alt="bobaweatherlogo"
+     style="float: left; width: 100px; padding: 10px" />
+	</a>
+</p>
+[About Stewart](404.html)
 <br />
 [Click here for Chicken](./Chicken/Chicken.html)
 <br />
