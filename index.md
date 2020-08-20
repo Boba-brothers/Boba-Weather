@@ -6,7 +6,7 @@ layout: default
 ## Home Page
 <img src="bobaweatherlogov2.png"
      alt="bobaweatherlogo icon"
-     style="float: left; width: 75px; padding: 10px" />
+     style="float: left; width: 100px; padding: 10px" />
 [About Stewart](404.html)
 <br />
 [Click here for Chicken](./Chicken/Chicken.html)
