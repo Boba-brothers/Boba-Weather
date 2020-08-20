@@ -1,12 +1,17 @@
+<p>
+	<a href="../index.html"
+	<img src="../bobaweatherlogov2.png"
+     alt="bobaweatherlogo icon"
+     style="float: left; width: 100px; padding: 10px" />
+	<title> My first website </title>
+	</p>
 ---
 permalink: index.html
 title: Homepage
 layout: default
 ---
 ## Home Page
-<img src="bobaweatherlogov2.png"
-     alt="bobaweatherlogo icon"
-     style="float: left; width: 100px; padding: 10px" />
+
 [About Stewart](404.html)
 <br />
 [Click here for Chicken](./Chicken/Chicken.html)
