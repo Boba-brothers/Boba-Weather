@@ -1,8 +1,4 @@
----
-permalink: index.html
-title: Homepage
-layout: default
----
+
 
 ## Home Page
 <p>
