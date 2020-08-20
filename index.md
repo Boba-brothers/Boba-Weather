@@ -3,7 +3,6 @@
 	<img src="../bobaweatherlogov2.png"
      alt="bobaweatherlogo icon"
      style="float: left; width: 100px; padding: 10px" />
-	<title> My first website </title>
 	</a>
 </p>
 ---
