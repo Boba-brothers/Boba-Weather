@@ -1,3 +1,9 @@
+
+---
+permalink: index.html
+title: Homepage
+layout: default
+---
 <p>
 	<a href="../index.html">
 	<img src="../bobaweatherlogov2.png"
@@ -5,11 +11,6 @@
      style="float: left; width: 100px; padding: 10px" />
 	</a>
 </p>
----
-permalink: index.html
-title: Homepage
-layout: default
----
 ## Home Page
 
 [About Stewart](404.html)
