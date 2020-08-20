@@ -4,6 +4,7 @@ title: Homepage
 layout: default
 ---
 
+
 ## Home Page
 <p>
 	<a href="index.html">
